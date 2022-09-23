@@ -1,10 +1,10 @@
-import React from "react"
+import React from "react";
 
 export default function Navbar() {
-    return (
-        <nav>
-            <img src="./images/earth.png" className="nav--logo" />
-            <h3>my travel journal</h3>
-        </nav>
-    )
+  return (
+    <nav>
+      <img src="./images/earth.png" className="nav--logo" />
+      <h3>my travel journal</h3>
+    </nav>
+  );
 }
