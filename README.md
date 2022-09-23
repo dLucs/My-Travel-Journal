@@ -1,4 +1,4 @@
-This is a simple static Travel blog created using React Props in order to practice. It uses a local file containing an array with all the information to be passed.
+This is a simple static Travel blog created using React Props and JSX in order to practice. It uses a local file containing an array with all the information to be passed.
 
 Check it out here: https://dlucs.github.io/My-Travel-Journal/
 
